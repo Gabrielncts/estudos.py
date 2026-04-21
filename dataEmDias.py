@@ -1,0 +1,6 @@
+print("// atv. Data em Dias // ")
+print("")
+numero1 = int(input("insira a primeira data: "))
+numero2 = int(input("insira a segunda data: "))
+numero3 = (numero1 - numero2)
+print("Diferença das datas: ", numero3)
